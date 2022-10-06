@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/cervantes007G/test2/compare/v1.2.0...v1.3.0) (2022-10-06)
+
+
+### Bug Fixes
+
+* fixing new tests ([7b3021a](https://github.com/cervantes007G/test2/commit/7b3021a923d4d0a8624d1fc0fb753eff58625e65))
+
+
+### Features
+
+* adding new test ([0cf2970](https://github.com/cervantes007G/test2/commit/0cf2970948ec9974a84c3de481ab20fdfd9b2f5b))
+
 # [1.2.0](https://github.com/cervantes007G/test2/compare/v1.1.0...v1.2.0) (2022-10-06)
 
 
