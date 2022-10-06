@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/cervantes007G/test2/compare/v1.1.0...v1.2.0) (2022-10-06)
+
+
+### Features
+
+* adding new features for v3 ([6c73e10](https://github.com/cervantes007G/test2/commit/6c73e1037720ede10be804d6238b83df23ce1dce))
+
 # [1.1.0](https://github.com/cervantes007G/test2/compare/v1.0.0...v1.1.0) (2022-10-06)
 
 
