@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/cervantes007G/test2/compare/v1.0.0...v1.1.0) (2022-10-06)
+
+
+### Bug Fixes
+
+* v2.1 ([18457ec](https://github.com/cervantes007G/test2/commit/18457ec21526167b92195115bae0226e3c6cfcc5))
+
+
+### Features
+
+* v2 ([4786b9d](https://github.com/cervantes007G/test2/commit/4786b9df25d6267a3cd0a79cd83d1b6eb1165dff))
+* v2 ([7ade7d1](https://github.com/cervantes007G/test2/commit/7ade7d1e14dfaadf97d1a5b1414383040ed0381f))
+
 # 1.0.0 (2022-10-06)
 
 
