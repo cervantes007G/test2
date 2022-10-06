@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/cervantes007G/test2/compare/v1.3.0...v1.3.1) (2022-10-06)
+
+
+### Bug Fixes
+
+* jest config ([90e033e](https://github.com/cervantes007G/test2/commit/90e033e07e78908ecf747c3a56f3ebaebe8ee982))
+
 # [1.3.0](https://github.com/cervantes007G/test2/compare/v1.2.0...v1.3.0) (2022-10-06)
 
 
